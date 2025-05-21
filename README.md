@@ -1,6 +1,7 @@
 # HTML-CSS-Form
-<!Doctype html>
+<!DOCTYPE html>
 <html>
+	<head>
   <title>Form</title>
   <style type="text/css">
   .main
@@ -14,7 +15,7 @@
   {
   height: 550px;
   width: 1300px;
-  background-color: whit;
+  background-color: whitE;
   margin-top: 40px;
   }
   .b
@@ -23,7 +24,7 @@
   width: 530px;
   background-color: white;
   float: left;
-  margin-left: 200px;
+  margin-left: 30px;
   }
   .c
   {
@@ -38,6 +39,7 @@
   transform: scale(1.5);
   }
   </style>
+		
   <body>
     <div class ="a">
     <div class="b">
